@@ -1,6 +1,6 @@
 package Perl::LanguageServer;
 
-use v5.18;
+use v5.16;
 
 use strict ;
 use Moose ;
@@ -29,11 +29,11 @@ Perl::LanguageServer - Language Server and Debug Protocol Adapter for Perl
 
 =head1 VERSION
 
-Version 2.4.0
+Version 2.3.0
 
 =cut
 
-our $VERSION = '2.4.0';
+our $VERSION = '2.3.0';
 
 
 =head1 SYNOPSIS
