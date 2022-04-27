@@ -1,3 +1,4 @@
+## Patched to support Perl v5.16
 
 Perl::LanguageServer - Language Server and Debug Protocol Adapter for Perl
 
