@@ -1,4 +1,5 @@
 ## Patched to support Perl v5.16
+# (Added to work with e.g. https://marketplace.visualstudio.com/items?itemName=richterger.perl in VSCode, on systems running perl 5.16)
 
 Perl::LanguageServer - Language Server and Debug Protocol Adapter for Perl
 
